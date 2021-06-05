@@ -12,6 +12,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/opengl-1.svg" width="80">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Simple_DirectMedia_Layer%2C_Logo.svg/738px-Simple_DirectMedia_Layer%2C_Logo.svg.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" width="60">
     </td>
 </table>
