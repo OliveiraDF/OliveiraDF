@@ -14,7 +14,7 @@
 <br/>
 
 <table width="100">
-<tr/>
+<tr>
     <td align='center' width="190">
         <img src="https://cdn.worldvectorlogo.com/logos/opengl-1.svg" width="80">
     </td>
@@ -27,7 +27,10 @@
     <td align='center' width="190">
         <img src="https://www.stemmer-imaging.com/media/cache/sp_gallery_large/uploads/software/mvtec-software-gmbh/ha/halcon-logo-and-slogan.png" width="60">
     </td>
+</tr>
+<tr>    
     <td align='center' width="190">
         <img src="https://cdn.worldvectorlogo.com/logos/microsoft-directx.svg" width="60">
     </td>
+</tr>
 </table>
