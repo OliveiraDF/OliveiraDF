@@ -2,7 +2,7 @@
 
 <br/>
 
-<p>A software engineer working on solutions for:<br/>
+<p>A software engineer working on solutions essentially for steel industry / petrochemical industry:<br/>
 - automatically control the quality of products by picture analysis or using laser sensors<br/>
 - ensure traceability of products<br/>
 - detect fire risks<br/>
