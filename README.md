@@ -24,4 +24,7 @@
     <td align='center' width="190">
         <img src="https://cdn.worldvectorlogo.com/logos/flir-systems.svg" width="60">
     </td>
+     <td align='center' width="190">
+        <img src="https://www.stemmer-imaging.com/media/cache/sp_gallery_large/uploads/software/mvtec-software-gmbh/ha/halcon-logo-and-slogan.png" width="60">
+    </td>
 </table>
