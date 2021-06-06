@@ -3,11 +3,11 @@
 <br/>
 
 <p>A software engineer working on solutions essentially for steel industry / petrochemical industry:<br/>
-- automatically control the quality of products by picture analysis or using laser sensors<br/>
-- ensure traceability of products<br/>
-- detect fire risks<br/>
-- monitor flares of refineries<br/>
-- detect potential leaks<br/>
+- automatically control the quality of products by picture analysis or using laser sensors;<br/>
+- ensure traceability of products;<br/>
+- detect fire risks;<br/>
+- monitor flares of refineries;<br/>
+- detect potential leaks;<br/>
 - and so on.</p>
 <br/>
 <p>Professional experience with the technologies listed below</p>
@@ -20,5 +20,8 @@
     </td>
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://cdn.worldvectorlogo.com/logos/flir-systems.svg" width="60">
     </td>
 </table>
