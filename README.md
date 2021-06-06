@@ -2,14 +2,14 @@
 
 <br/>
 
-<p>A software engineer working on solutions for:
-- automatically control the quality of products by picture analysis or using laser sensors
-- ensure traceability of products
-- detect fire risks
-- monitor flares of refineries
-- detect potential leaks
+<p>A software engineer working on solutions for:<br/>
+- automatically control the quality of products by picture analysis or using laser sensors<br/>
+- ensure traceability of products<br/>
+- detect fire risks<br/>
+- monitor flares of refineries<br/>
+- detect potential leaks<br/>
 - and so on.</p>
-
+<br/>
 <p>Professional experience with the technologies listed below</p>
 <br/>
 
