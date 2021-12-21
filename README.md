@@ -10,16 +10,14 @@
 - detect potential leaks;<br/>
 - and so on.</p>
 <br/>
-<p>Professional experience with the technologies listed below</p>
-<br/>
-
-<p>Common API</p>
+<p>Professional experience with the technologies listed below:</p>
+<p><b>Common API</b></p>
 <ul>
   <li>C library</li>
   <li>Win32</li>
 </ul>
 
-<p>Graphics API</p>
+<p><b>Graphics API</b></p>
 <ul>
   <li>Direct3D 11</li>
   <li>OpenGL 2.1</li>
@@ -27,7 +25,7 @@
   <li>GDI+</li>
 </ul>
 
-<p>Image Processing</p>
+<p><b>Image Processing</b></p>
 <ul>
   <li>Intel IPP</li>
   <li>Halcon</li>
