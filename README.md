@@ -23,6 +23,7 @@
   <li>Direct3D 11;</li>
   <li>OpenGL 2.1;</li>
   <li>SDL 1.2;</li>
+  <li>MFC;</li>
   <li>GDI+.</li>
 </ul>
 
