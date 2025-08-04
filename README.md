@@ -20,7 +20,7 @@ A software engineer working on solutions essentially for steel industry / petroc
 - STL
 - Boost
 
-**Graphics API**
+**Graphics**
 - Direct3D 11
 - OpenGL 2.1
 - OpenGL 3.3 Core Profile
@@ -28,10 +28,15 @@ A software engineer working on solutions essentially for steel industry / petroc
 - SFML
 - GDI+
 
+**Audio**
+- DirectSound
+
 **Networking**
 - libmodbus
 - TCP/IP & UDP sockets (winsock)
 - Serial RS232
+- OPC DA
+- SNMP
 
 **GUI**
 - Microsoft Foundation Classes
@@ -39,3 +44,14 @@ A software engineer working on solutions essentially for steel industry / petroc
 **Image Processing**
 - Intel IPP
 - Halcon
+
+**Database**
+- ODBC with MSSQL
+- MySQL
+
+**Sensor device**
+- eBUS GiGE Vision
+- Onvif (RTSP)
+- Multicam
+- PhoxyControl
+- 
