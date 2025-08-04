@@ -1,4 +1,4 @@
-### Hi there 👋, I am Oliveira
+### Hi there 👋, I am Olivier
 
 A software engineer working on solutions essentially for steel industry / petrochemical industry:
 
@@ -17,14 +17,24 @@ A software engineer working on solutions essentially for steel industry / petroc
 **Common API**
 - C library
 - Win32
+- STL
+- Boost
 
 **Graphics API**
 - Direct3D 11
 - OpenGL 2.1
 - OpenGL 3.3 Core Profile
 - SDL 1.2
-- MFC
+- SFML
 - GDI+
+
+**Networking**
+- libmodbus
+- TCP/IP & UDP sockets (winsock)
+- Serial RS232
+
+**GUI**
+- Microsoft Foundation Classes
 
 **Image Processing**
 - Intel IPP
