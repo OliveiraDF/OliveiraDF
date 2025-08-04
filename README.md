@@ -1,4 +1,4 @@
-### Hi there 👋, I am Olivier
+### Hi there 👋, I am Olivier, C++ developer
 
 A software engineer working on solutions essentially for steel industry / petrochemical industry:
 
