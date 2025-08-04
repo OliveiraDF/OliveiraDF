@@ -1,6 +1,6 @@
-### Hi there 👋, I am Olivier, C++ developer
+### Hi there 👋, I am Olivier
 
-A software engineer working on solutions essentially for steel industry / petrochemical industry:
+A C++ software engineer working on solutions essentially for steel industry / petrochemical industry:
 
 - Automatically control the quality of products by picture analysis or using laser sensors
 - Ensure traceability of products
